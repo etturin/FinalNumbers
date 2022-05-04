@@ -70,7 +70,7 @@ class NumberTable extends React.Component {
             <div className='container mt-5'>
                 <div className='row'>
                     <div className='col-md-12'>
-                        <button className="btn btn-success btn-lg btn-block" onClick={this.onAddClick}>Add</button>
+                        <button className="btn btn-info btn-lg btn-block" onClick={this.onAddClick}>Add</button>
                     </div>
                 </div>
             <div>
